@@ -1,1 +1,1 @@
-www.tienlengo.com:8001,8003,8010
+test.tienlengo.com:8001,8003,8010
